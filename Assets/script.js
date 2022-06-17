@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    $('#currentDay').text(moment().format("MMMM Do YYYY, h:mm:ss a"));
     $('.saveBtn').on('click',function(){
         //store in localstorage
         var value = $(this).siblings('.description').val()
