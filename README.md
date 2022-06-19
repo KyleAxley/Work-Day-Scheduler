@@ -10,7 +10,8 @@ Bootstrap
 # Contribution by:
 Kyle Anderson. 
 
-![Work day Scheduler SS](https://user-images.githubusercontent.com/103543572/174413089-34a68b12-c830-484f-9a79-69087dcc3666.png)
+![Work Day Scheduler SS2](https://user-images.githubusercontent.com/103543572/174498592-b7cf6d54-053f-4b9b-b68a-537e3b3ee902.png)
+
 
 
 ## User Story
